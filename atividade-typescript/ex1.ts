@@ -14,3 +14,4 @@ function calcularQuadrado2(arr:Array<number>) {
 var exArray = [3,5,7,3,8,9,1]
 console.log(calcularQuadrado1(exArray))
 console.log(calcularQuadrado2(exArray))
+
