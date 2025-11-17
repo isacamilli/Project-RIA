@@ -2,7 +2,7 @@
 
 ## 🧾 Sobre o Projeto
 
-FashionSwap é uma plataforma inovadora que conecta pessoas para trocar roupas de forma sustentável. Nossa missão é promover a moda circular, reduzir o desperdício têxtil e criar uma comunidade onde usuários podem renovar seus guarda-roupas de maneira consciente e econômica.
+SwapCloset é uma plataforma inovadora que conecta pessoas para trocar roupas de forma sustentável. Nossa missão é promover a moda circular, reduzir o desperdício têxtil e criar uma comunidade onde usuários podem renovar seus guarda-roupas de maneira consciente e econômica.
 
 ---
 
